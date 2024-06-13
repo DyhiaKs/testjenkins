@@ -49,8 +49,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T19:52:02.177Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -76,7 +75,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
               "ToolTip": "C:\\Users\\dyhia\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAmAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T21:13:27.558Z",
               "EditorCaption": ""
@@ -103,8 +102,7 @@
               "RelativeToolTip": "Exo01\\ReadData.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T19:48:41.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:48:41.633Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "Exo01\\Data.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T19:41:52.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:41:52.479Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "Exo01\\TestFormulaire.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T19:39:47.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:39:47.063Z"
             }
           ]
         }
