@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyhia\\source\\repos\\Exo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyhia\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|c:\\users\\dyhia\\source\\repos\\exo01\\exo01\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|solutionrelative:exo01\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|c:\\users\\dyhia\\source\\repos\\exo01\\exo01\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|solutionrelative:exo01\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|c:\\users\\dyhia\\source\\repos\\exo01\\exo01\\testformulaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|solutionrelative:exo01\\testformulaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|c:\\users\\dyhia\\source\\repos\\exo01\\exo01\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|solutionrelative:exo01\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|c:\\users\\dyhia\\source\\repos\\exo01\\exo01\\exo01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EAFB95E-DF99-4007-BB7C-8BCED242AC2D}|Exo01\\Exo01.csproj|solutionrelative:exo01\\exo01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyhia\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Client.cs",
+              "RelativeDocumentMoniker": "Exo01\\Client.cs",
+              "ToolTip": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Client.cs",
+              "RelativeToolTip": "Exo01\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:52:02.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyhia\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\dyhia\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:41:46.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestFormulaire.cs",
+              "DocumentMoniker": "C:\\Users\\dyhia\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
+              "ToolTip": "C:\\Users\\dyhia\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2971769dec0e575afcf2aa5149e6a071ec9a718d1eb0b21c58a65d15be7fa4e\\TestFormulaire.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:13:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exo01.csproj",
+              "DocumentMoniker": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Exo01.csproj",
+              "RelativeDocumentMoniker": "Exo01\\Exo01.csproj",
+              "ToolTip": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Exo01.csproj",
+              "RelativeToolTip": "Exo01\\Exo01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T19:41:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadData.cs",
+              "DocumentMoniker": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\ReadData.cs",
+              "RelativeDocumentMoniker": "Exo01\\ReadData.cs",
+              "ToolTip": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\ReadData.cs",
+              "RelativeToolTip": "Exo01\\ReadData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:48:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Data.json",
+              "RelativeDocumentMoniker": "Exo01\\Data.json",
+              "ToolTip": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\Data.json",
+              "RelativeToolTip": "Exo01\\Data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T19:41:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestFormulaire.cs",
+              "DocumentMoniker": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\TestFormulaire.cs",
+              "RelativeDocumentMoniker": "Exo01\\TestFormulaire.cs",
+              "ToolTip": "C:\\Users\\dyhia\\source\\repos\\Exo01\\Exo01\\TestFormulaire.cs",
+              "RelativeToolTip": "Exo01\\TestFormulaire.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:39:47.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
